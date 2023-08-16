@@ -1,5 +1,5 @@
 {
-  "name": "deployment-example-prisma-vercel",
+  "name": "inventory-buddy",
   "dependencies": {
     "@prisma/client": "4.16.2",
     "next": "13.4.16",
